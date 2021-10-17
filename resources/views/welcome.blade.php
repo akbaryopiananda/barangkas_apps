@@ -29,6 +29,7 @@
             </div>
             <div class="col-12 col-md-7 right">
                 <div class=mainInfo>
+                    <h1>Cooming Soon</h2>
                     <img src="{{ asset('/image/logo.png') }}" alt="" style="width:50%">
                     <p class=slogan>Platform investasi reksadana yang menggunakan sampah daur ulang sebagai modal transaksi masyarakat. </p>
                     <form class=form-subscribe action=#> <input type=email class=form placeholder="Your email address"
