@@ -16,7 +16,7 @@
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/pkkmb/yuwaraja21.git
+    git clone https://github.com/akbaryopiananda/barangkas_apps.git
     ```
 
 2. Use the package manager [composer](https://getcomposer.org/download/) to install vendor.
@@ -35,9 +35,10 @@
     php artisan key:generate
     ```
 6. Node
+    ```bash
     npm install
     npm run dev
-
+    ```
 7. Run Migration
 
     ```bash
